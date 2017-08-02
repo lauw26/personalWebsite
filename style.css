@@ -4,12 +4,10 @@
   color:#B6DC76;
 }
 
-.logo{
-	display: inline-block;
-	float: left;
-	height: 60px;
-	width: 60px;
-	position: relative;
-	left: 400px;
-	top: -70px;
+.icon{
+	width: 70px;
+	height:70px;
+/*	display: inline-block;
+	float: right;*/
 }
+
