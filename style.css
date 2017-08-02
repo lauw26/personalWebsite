@@ -1,7 +1,5 @@
 .vertical-center {
   text-align: center;
-  background-color: #442B48;
-  color:#B6DC76;
 }
 
 .icon{
@@ -11,3 +9,6 @@
 	float: right;*/
 }
 
+.center{
+	margin: 0 auto;
+}
