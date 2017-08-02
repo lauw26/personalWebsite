@@ -1,0 +1,15 @@
+.vertical-center {
+  text-align: center;
+  background-color: #442B48;
+  color:#B6DC76;
+}
+
+.logo{
+	display: inline-block;
+	float: left;
+	height: 60px;
+	width: 60px;
+	position: relative;
+	left: 400px;
+	top: -70px;
+}
