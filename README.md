@@ -14,11 +14,10 @@
 
 <a name="introduction"></a>
 ###Introduction
-
 [personalWebsite](https://lauw26.github.io/personalWebsite/) is a website built using html,css and the framework bootstrap. 
+
 <a name="plan"></a>
 ###Plan
-
 | Steps  | Task          | 
 | ------ |:-------------:| 
 | 1 	|Design wire frame|    
@@ -36,20 +35,20 @@
 
 <a name="about"></a>
 ###About The Webpage
-The website design was intended to be a music site. The login would allow users to login and using the navigation bar would allow them to navigate the site and search for new songs. 
+The website design was intended to be a music site. The login would allow users to login and using the navigation bar would allow them to navigate the site and search for new songs.
+ 
 <a name="approach"></a>
-
 ###Approach 
 The approach for the design was divide and conquer, one row was worked on at a time adding and spacing each element, working downwards to finish the webpage with all the design elements. Much of the difficulties comes from position and sizing the elements as well as matching with the responsive layout.
-<a name="well"></a>
 
+<a name="well"></a>
 ####Things that went well
 * Design layout matches with product 
 * Login seach takes in inputs
 * Page is responsive
 * List section appears under the main section in mobile form
-<a name="improvements"></a>
 
+<a name="improvements"></a>
 ####Improvements to be made
 * More containers to allow for improvements in positiing elements
 * More pictures to make the webpage for interesting
