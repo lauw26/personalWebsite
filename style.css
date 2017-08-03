@@ -14,3 +14,31 @@
 	width: 75%;
 
 }
+
+.background{
+	background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/V7hRLuVqxikh75uky/abstract-light-grey-3d-polygonal-motion-background-for-modern-reports-and-presetations-4k-seamless-loop-animation-prores_s7sptfhc_thumbnail-medium01.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 5px;
+}
+
+section {
+    display: inline-block;
+    text-align: center;
+    background-color:rgba(155,148,148, 0.4);
+	border-radius: 25px;
+    border: 2px ;
+}
+
+section#left{
+	float: left;
+	width: 200px;
+
+}
+
+section#right{
+	float: left;
+	width: 63%;
+	margin-left: 5%;
+
+}
