@@ -15,7 +15,8 @@
 
 <a name="introduction"></a>
 
-### Introduction
+## Introduction
+
 
 [personalWebsite](https://lauw26.github.io/personalWebsite/) is a website built using html,css and the framework bootstrap. 
 
